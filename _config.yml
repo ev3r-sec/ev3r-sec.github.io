@@ -66,8 +66,6 @@ disqus:
 
 markdown: kramdown
 
-kramdown:
-  input: GFM
 
 # Prefer color scheme setting.
 #
